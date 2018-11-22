@@ -4,7 +4,7 @@
 
 Interesting papers/codes:
 
--   CDN_Molecule:  [paper](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.8b00474),  [code](https://github.com/rkakamilan/CDN_Molecule),  [train function](https://github.com/rkakamilan/CDN_Molecule/blob/master/train.py),  [evaluate](https://github.com/rkakamilan/CDN_Molecule/blob/master/evaluate.py)  
+* CDN_Molecule:  [paper](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.8b00474),  [code](https://github.com/rkakamilan/CDN_Molecule),  [train function](https://github.com/rkakamilan/CDN_Molecule/blob/master/train.py),  [evaluate](https://github.com/rkakamilan/CDN_Molecule/blob/master/evaluate.py)  
     *chemical_vae:  [github code](https://github.com/aspuru-guzik-group/chemical_vae)
 
 Starting points:  
@@ -34,5 +34,6 @@ Youtube:
 Theory  
 [VAE explained](http://kvfrans.com/variational-autoencoders-explained/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NzAwOTE1LDEzNDQ0OTA1MTFdfQ==
+eyJoaXN0b3J5IjpbMjAyNzI5MDMyNiw5OTY3MDA5MTUsMTM0ND
+Q5MDUxMV19
 -->
