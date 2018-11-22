@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: chemvae
+Version: 1.0.0
+Summary: Variational autoencoder for use with molecular SMILES, as described in  https://arxiv.org/pdf/1610.02415.pdf
+Home-page: UNKNOWN
+Author: Alán Aspuru-Guzik
+Author-email: alan@aspuru.com
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
